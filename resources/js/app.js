@@ -41,5 +41,3 @@ window.swalDeleteConfirmation = function(url)
 window.notificarSucesso = function (descricao) {
     Notyf.success(descricao);
 }
-
-
